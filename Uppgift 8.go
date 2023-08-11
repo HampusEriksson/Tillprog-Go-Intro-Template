@@ -1,6 +1,6 @@
 // Namn
 // Datum
-// TODO: Något med Mutable, immutable, pointers
+// Använd ditt program från uppgift 6 men istället för maps ska du använda structs för kontona
 
 package main
 
