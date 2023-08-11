@@ -1,6 +1,6 @@
 // Namn
 // Datum
-// Låt användaren skriva in ett valfritt tal. Skriv sedan ut vad det talet blir i kvadrat:
+// TODO: Något med threads
 
 package main
 
