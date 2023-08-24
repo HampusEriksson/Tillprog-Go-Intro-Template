@@ -1,7 +1,11 @@
 // Namn
 // Datum
-// Fråga användaren hur många personer de är som ska dela och hur många objekt (äpplen. pengar t.ex.) som ska delas på.
-// Programmet ska sedan skriva ut hur många t.ex. äpplen varje person får(utan att dela några äpplen) och säga hur många äpplen som är kvar.
+/* Skapa en variabel grocery_list som är en array
+Gör en program med följande fungerande meny:
+Lägg till saker i en  grocery_list
+Ta bort saker från  grocery_list
+Kolla i  grocery_list (skriv ut innehållet)
+Avsluta programmet*/
 
 package main
 

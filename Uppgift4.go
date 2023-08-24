@@ -1,7 +1,13 @@
 // Namn
 // Datum
-// Gör en kort frågesport
-// Användaren ska få feedback på sina svar samt veta någon typ av score i slutet
+// I denna uppgift ska du använda dig av maps
+/* Gör ett program med en meny där användaren kan:
+Skapa konto
+Logga in
+Läsa en rolig historia, men bara om man är inloggad
+Logga ut
+Avsluta programmet
+*/
 
 package main
 
