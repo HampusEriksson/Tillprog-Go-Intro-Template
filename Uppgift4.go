@@ -12,5 +12,6 @@ Avsluta programmet
 package main
 
 func main() {
+	accounts := map[string]string{}
 
 }

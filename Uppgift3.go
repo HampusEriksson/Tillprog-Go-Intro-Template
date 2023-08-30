@@ -1,6 +1,6 @@
 // Namn
 // Datum
-/* Skapa en variabel grocery_list som är en array
+/* Skapa en variabel grocery_list som är en slice
 Gör en program med följande fungerande meny:
 Lägg till saker i en  grocery_list
 Ta bort saker från  grocery_list
